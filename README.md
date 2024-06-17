@@ -4,8 +4,8 @@
       <br/> 64-Bit Downgrade, Dualboot & Jailbreak Utility
    </h1>
    <h2> 
-      <br/> 玄烨品果根据原版最后一版本中文汉化的版本
-   </h2>h2
+      <br/> 玄烨品果根据原版最后一版进行了中文汉化的版本
+   </h2>
 </div>
 
 <h4 align="center"> Uses seprmvr64 by mineek<h4>
