@@ -11,6 +11,10 @@
 <h4 align="center"> Uses seprmvr64 by mineek<h4>
 <h6 align="center"> Supports* iOS 7.0.6-12.1 as well as A7-A11 devices </h6>
 
+# 中文汉化与原版英文版本区别
+1，在下载root.dmg采用本地手动拷贝ipsw固件到work目录的方法，更加便于中国用户。
+2，同时去除频繁的 拔插数据线 提示
+
 # IF YOUR DEVICE SUPPORTS [LEGACY-IOS-KIT](https://github.com/LukeZGD/Legacy-iOS-Kit), YOU SHOULD REALLY USE THAT OVER THIS.
 
 # Chart of compatibility
